@@ -2,7 +2,7 @@
 
 - 🔭 I’m Sam Gaulding
 - 😄 Pronouns: he/him/his
-![Sam's github stats](https://github-readme-stats.vercel.app/api?username=sgaulding&show_icons=true)
+- ![Sam's github stats](https://github-readme-stats.vercel.app/api?username=sgaulding&show_icons=true)
 
 
 <!--
