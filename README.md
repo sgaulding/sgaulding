@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m Sam Gaulding
-- 😄 Pronouns: he/him/his
-- ![Sam's github stats](https://github-readme-stats.vercel.app/api?username=sgaulding&show_icons=true&theme=dark)
-- ![Sam's github top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=sgaulding&layout=compact&hide=html&theme=dark)
+- ![Sam's github stats](https://github-readme-stats.vercel.app/api?username=sgaulding&show_icons=true)
 
 <!--
 **sgaulding/sgaulding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
