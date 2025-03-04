@@ -1,19 +1,21 @@
-### Hi there 👋
+# Hi there, I'm Sam Gaulding! 👋
 
-- 🔭 I’m Sam Gaulding
-- ![Sam's github stats](https://github-readme-stats.vercel.app/api?username=sgaulding&show_icons=true)
+### 🚀 Quick Highlights
+
+-   💻 Software Engineer with expertise in modern development
+-   🌱 Always learning and growing
+-   👯 Open to collaborate on interesting projects
+
+### 📊 GitHub Stats
+
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgaulding&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+---
+
+⭐️ From [sgaulding](https://github.com/sgaulding)
 
 <!--
 **sgaulding/sgaulding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
